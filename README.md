@@ -9,3 +9,4 @@
 - [Direct Quote Verifier](skills/direct-quote-verifier/) — проверяет дословность прямых цитат, правильность спикера и источника, а также сохранение смысла ближайшего контекста.
 - [Absence Claim Auditor](skills/absence-claim-auditor/) — проверяет, действительно ли отрицательное утверждение следует из области поиска, его результатов, ошибок и найденных контрпримеров.
 - [Claim-Source Authority Matcher](skills/claim-source-authority-matcher/) — определяет, соответствует ли роль и авторитетность источника конкретному утверждению и решению.
+- [Causal Claim Evidence Auditor](skills/causal-claim-evidence-auditor/) — проверяет, позволяет ли дизайн исследования сделать причинный вывод, и предлагает безопасную формулировку при слабой идентификации.
