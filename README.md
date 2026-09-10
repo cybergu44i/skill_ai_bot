@@ -8,3 +8,4 @@
 - [Quantitative Claim Recalculator](skills/quantitative-claim-recalculator/) — воспроизводит производные числовые утверждения по исходным значениям и выявляет ошибки формулы, знаменателя, единиц и округления.
 - [Direct Quote Verifier](skills/direct-quote-verifier/) — проверяет дословность прямых цитат, правильность спикера и источника, а также сохранение смысла ближайшего контекста.
 - [Absence Claim Auditor](skills/absence-claim-auditor/) — проверяет, действительно ли отрицательное утверждение следует из области поиска, его результатов, ошибок и найденных контрпримеров.
+- [Claim-Source Authority Matcher](skills/claim-source-authority-matcher/) — определяет, соответствует ли роль и авторитетность источника конкретному утверждению и решению.
