@@ -11,3 +11,4 @@
 - [Claim-Source Authority Matcher](skills/claim-source-authority-matcher/) — определяет, соответствует ли роль и авторитетность источника конкретному утверждению и решению.
 - [Causal Claim Evidence Auditor](skills/causal-claim-evidence-auditor/) — проверяет, позволяет ли дизайн исследования сделать причинный вывод, и предлагает безопасную формулировку при слабой идентификации.
 - [Citation Selection Bias Auditor](skills/citation-selection-bias-auditor/) — проверяет, не искажён ли агрегирующий вывод односторонним отбором исследований, результатов или связанных публикаций.
+- [Scholarly Citation Status Auditor](skills/scholarly-citation-status-auditor/) — проверяет ретракции, исправления, предупреждения и переиздания научных работ и связывает их статус с поддерживаемыми тезисами.
