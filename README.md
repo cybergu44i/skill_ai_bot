@@ -5,3 +5,4 @@
 - [Source Independence Auditor](skills/source-independence-auditor/) — прослеживает согласующиеся публикации до их реальных первоисточников и выявляет ложную независимость доказательств.
 - [Evidence Boundary Auditor](skills/evidence-boundary-auditor/) — сопоставляет границы источника и утверждения, чтобы находить необоснованные переносы контекста, метрики и силы вывода.
 - [Source Conflict Mapper](skills/source-conflict-mapper/) — выравнивает расходящиеся утверждения источников и отделяет реальные противоречия от различий в определениях, охвате, времени и методе.
+- [Quantitative Claim Recalculator](skills/quantitative-claim-recalculator/) — воспроизводит производные числовые утверждения по исходным значениям и выявляет ошибки формулы, знаменателя, единиц и округления.
